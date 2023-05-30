@@ -1,0 +1,15 @@
+$primary-color: #5133a5;
+$secondary-color: #d1c5e8;
+
+
+    .modal-header{
+        background-color: $primary-color;
+    
+        button{
+            color: floralwhite;
+        }
+    }
+    
+    .modal-body{
+        background-color: $secondary-color;
+    }
